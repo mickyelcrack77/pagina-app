@@ -29,7 +29,7 @@
     color: white;
 }
 .fondo{
-    background-color: black;
+    background-image: url('FONDOINDEX.avif');
 }
 .encabezado h1 {
     font-family: 'Times New Roman', Times, serif; 
