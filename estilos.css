@@ -15,7 +15,7 @@
 .menu{
     float: left;
     width: 80%;
-    line-height: 10px;
+    line-height: 30px;
     text-align: left;
 }
 
@@ -165,5 +165,5 @@
 }
 
 .fondo{
-    background-image: url(../IMAGENES/FONDOINDEX.avif);
+    background-image: url(./FONDOINDEX.avif);
 }
